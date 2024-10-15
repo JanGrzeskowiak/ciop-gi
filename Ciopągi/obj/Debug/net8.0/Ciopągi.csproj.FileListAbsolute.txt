@@ -1,0 +1,14 @@
+/home/jan/Dokumenty/Ciopągi/Ciopągi/bin/Debug/net8.0/Ciopągi
+/home/jan/Dokumenty/Ciopągi/Ciopągi/bin/Debug/net8.0/Ciopągi.deps.json
+/home/jan/Dokumenty/Ciopągi/Ciopągi/bin/Debug/net8.0/Ciopągi.runtimeconfig.json
+/home/jan/Dokumenty/Ciopągi/Ciopągi/bin/Debug/net8.0/Ciopągi.dll
+/home/jan/Dokumenty/Ciopągi/Ciopągi/bin/Debug/net8.0/Ciopągi.pdb
+/home/jan/Dokumenty/Ciopągi/Ciopągi/obj/Debug/net8.0/Ciopągi.GeneratedMSBuildEditorConfig.editorconfig
+/home/jan/Dokumenty/Ciopągi/Ciopągi/obj/Debug/net8.0/Ciopągi.AssemblyInfoInputs.cache
+/home/jan/Dokumenty/Ciopągi/Ciopągi/obj/Debug/net8.0/Ciopągi.AssemblyInfo.cs
+/home/jan/Dokumenty/Ciopągi/Ciopągi/obj/Debug/net8.0/Ciopągi.csproj.CoreCompileInputs.cache
+/home/jan/Dokumenty/Ciopągi/Ciopągi/obj/Debug/net8.0/Ciopągi.dll
+/home/jan/Dokumenty/Ciopągi/Ciopągi/obj/Debug/net8.0/refint/Ciopągi.dll
+/home/jan/Dokumenty/Ciopągi/Ciopągi/obj/Debug/net8.0/Ciopągi.pdb
+/home/jan/Dokumenty/Ciopągi/Ciopągi/obj/Debug/net8.0/Ciopągi.genruntimeconfig.cache
+/home/jan/Dokumenty/Ciopągi/Ciopągi/obj/Debug/net8.0/ref/Ciopągi.dll
